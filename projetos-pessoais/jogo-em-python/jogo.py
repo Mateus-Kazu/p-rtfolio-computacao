@@ -1,0 +1,1 @@
+# Aqui você pode desenvolver seu próprio jogo em Python (ex: adivinhação)
